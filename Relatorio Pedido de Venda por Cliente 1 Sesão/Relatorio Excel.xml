@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>UniCD-TI03</Author>
+  <LastAuthor>UniCD-TI03</LastAuthor>
+  <Created>2022-05-04T15:21:54Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7500</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Font ss:FontName="Courier New" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Courier New" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Courier New" ss:Size="11"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Courier New" ss:Size="11"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Courier New" ss:Size="11"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Courier New" ss:Size="11"/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="99-01 - RESUMO DE VENDA POR CL">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="50" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
+   <Column ss:Width="138.75"/>
+   <Column ss:Width="219.75"/>
+   <Column ss:Width="29.25"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="123.75"/>
+   <Column ss:Width="102"/>
+   <Column ss:Width="95.25"/>
+   <Row>
+    <Cell><Data ss:Type="String">Dt.Ref: 04/05/2022</Data></Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell><Data ss:Type="String">Hora: 12:20:30</Data></Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell><Data ss:Type="String">Emissão: 04/05/2022</Data></Cell>
+   </Row>
+   <Row ss:Index="7" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Codigo</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Nome</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Loja</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Pedidos</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Produtos Vendidos</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Vlr.Total</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MEDIA PRODUTO</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">000541</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">JOSE NALTO DE SOUZA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2436</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5436.45</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.2317118200000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">001631</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DISTRIBUIDORA DE VAR GLOBO EIRELI ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2970</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6176.46</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.07961616</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">001871</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">LOJAS MIMI COM DE UTENS DOMEST  LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">43</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1332</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2213.16</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.66153153</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">001932</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RODOLFO GASPAR PINTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">69</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1112</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">3108.91</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.79578237</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">002003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MARIA DO SOCORRO PESSOA DANTAS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">276</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1393.04</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">5.0472463799999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">002029</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">HIROSHIMA PARTICIPACOES E COMERCIO LTDA.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1656</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2255.52</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.36202899</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">002061</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">IRMAOS BENSI LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">55</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">990</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1312.83</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.32609091</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">002184</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TUDO MAIS VOCE UTIL. E PRES. LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">43</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">857</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2445.61</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.8536872799999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">002225</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M.E.K. MOHAMAD ABDOUNI EMPORIO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">49</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">673</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1340.39</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.9916641900000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">002283</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NEWSCAP BAZAR UTIL. DOMS. LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">144</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1263.96</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">8.7774999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">002293</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">EDINALDO ALVES DE OLIVEIRA OURICURI ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">37</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">498</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2247.69</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4.51343373</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">002656</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AKIKO COM VAR DE ART DE UTIL DOM LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">664</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1258.83</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.89582831</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003054</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MERCADAO POPULAR LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">58</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1240</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">3263.13</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.6315564500000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003111</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MASTER COMERCIO DE UTILIDADES LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">450</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">4399.3500000000004</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">9.7763333299999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003212</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CARLOS ANTONIO FERREIRA FRANCA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1218</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">3091.77</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.53839901</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003302</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">FRAZATTO COMERCIO DE UTIL DOM LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">56</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1118</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2087.35</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.8670393599999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003343</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">GERMAN COM DE UTILIDS DOMESTICAS LTDA EP</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1314</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2849.76</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.16876712</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003344</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CAMPINEIRA UTILIDADES LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2792</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">6625.64</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.3730802299999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003413</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A E A GOMES ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">52</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">3000</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2789.16</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">0.92971999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003498</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">FORTE DA ECONOMIA COM DE ARM LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">313</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">719.09</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.29741214</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003582</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">WAGNER FILINKOVISKI DA ROSA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">141</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">4327</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">9506.9500000000007</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.1971227199999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003586</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PRATES &amp; FILINKOSKI COMER VAR LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">137</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2356</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5285.97</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.2436205400000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003689</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">GRX UTILIDADES DOMESTICAS LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1272</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2006.55</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.57747642</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003731</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">POUPE FACIL COM DE VARIEDADES LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">137</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1880</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2043.47</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.08695213</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">003979</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PEDRO PAULO NUNES MASSENA E CIA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">118</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">3134</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">7562.55</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.4130663700000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">004025</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">REAL JABAQUARA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">65</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1434</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">3090.99</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.1555020900000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">004104</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">UAU VARIEDADES LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">85</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">4960</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5985.87</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.20682863</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">004298</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MARCELINO GALINDO DE MELO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">55</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">3413</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5629.13</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.6493202499999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">004486</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">JOSE EUDIMAR ARRUDA DA SILVA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">76</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2076</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">4669.16</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.2491136799999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">004559</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">JLL UTILIDADES SANTO ANTONIO EIRELI - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">53</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1020</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2563.0700000000002</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.51281373</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">004619</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MACENA E GALERIANI COM LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">39</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1276</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2515.02</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.9710188099999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">004659</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DALLA VALLE REAL COM UTENS DOM LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">144</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1785.6</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">12.4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">004706</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MICHELLE APARECIDA PEREIRA DA SILVA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">41</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">640</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">856.12</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.3376874999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">004708</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">LOJA DO VIZINHO UTIL DOM LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">91</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1674</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1305.3800000000001</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">0.77979688999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">004741</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RAIMUNDO RONICHARLES P PRESENTE CIA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">70</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1435</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">4064.75</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.8325784000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">004752</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">JOSE CARLOS FREIRE ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">700</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">1719.08</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.45582857</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">004842</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">W RODRIGUES OSVALDO EIRELI</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2016</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2048.1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.01592262</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">200508</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">HERMOGEANE LINS E FREITAS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">87</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">1532</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2244.6999999999998</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.46520888</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">200530</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ADINILSON DO CARMO DE CASTRO ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">110</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">5214</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">10338.620000000001</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1.9828576899999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">201581</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ROSANGELA DE MELO UVA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">01</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">112</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2018</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">4448.04</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.2041823599999999</Data></Cell>
+   </Row>
+   <Row ss:Index="49" ss:Height="15.75">
+    <Cell ss:MergeAcross="5" ss:StyleID="s69"><Data ss:Type="String">Total Geral</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Todos os PEDIDOS::</Data></Cell>
+    <Cell><Data ss:Type="Number">135947.22</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.4921259845"/>
+    <Footer x:Margin="0.4921259845"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Selected/>
+   <TopRowVisible>39</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>49</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
